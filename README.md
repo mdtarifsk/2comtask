@@ -21,4 +21,4 @@ Displays a summary of successful imports and errors.
 # Database Connection:
 Centralized db.php ensures consistent access and error handling.
 # how to use this source Code 
-extract the zip file .Download and Install XAMPP-->Start Apache and MySQL-->Create Database-->Open phpMyAdmin (usually at http://localhost/phpmyadmin).
+extract the zip file .Download and Install XAMPP-->Start Apache and MySQL-->Create Database name is "lead_management" and upload SQL file-->Open phpMyAdmin (usually at http://localhost/phpmyadmin).
