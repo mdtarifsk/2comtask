@@ -14,7 +14,7 @@ Login 1.User name- admin
                         password- admin123
 
 # dashboard.php:
- Provides an intuitive interface for managing leads with options to import, view, edit, or delete.
+# Provides an intuitive interface for managing leads with options to import, view, edit, or delete.
 # Import Functionality:
 Validates Excel file inputs with clear error reporting.
 Displays a summary of successful imports and errors.
